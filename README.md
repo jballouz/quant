@@ -1,5 +1,6 @@
 # quant
-Author: Joseph J. G. Ballouz
+Author: Joseph J. G. Ballouz, PhD
+
 Finance and Machine Learning Projects and Experiments
 
 This file contains the following projects:
