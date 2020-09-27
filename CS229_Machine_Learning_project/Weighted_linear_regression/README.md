@@ -1,1 +1,1 @@
-This folder contains the weighted linear regression experimentation, which was mostly not adequate in producing useful prediction. Therefore, we turned our attention to a Deep Learning Neural Network based approach, among others.
+This folder contains the weighted linear regression experimentation, which was mostly not adequate in producing useful predictions. Therefore, we turned our attention to a Deep Learning Neural Network based approach, among others.
