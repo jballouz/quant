@@ -1,5 +1,5 @@
 # quant
-Author: Joseph J. G. Ballouz, PhD
+Author: Joseph Ballouz, PhD
 
 Finance and Machine Learning Projects and Experiments
 
