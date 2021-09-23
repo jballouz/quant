@@ -12,5 +12,5 @@ This project was part of the CS229-Machine Learning course (at Stanford Universi
 This betting algorithm is based on the simple assumption that humans are binary in their predictions of a winner vs. loser (i.e. Underdog vs. favorite) in any sporting event, however, the amounts that they bet are skewed by emotional elements. This betting principle exploits this discrepency by betting on undervalued underdogs as well as dicredited favorites. 
 This strategy can also be applied to Stock movements.
 
-3- Natural Language processing for tweets and stock price correlation.
-This project scours Twitter (certain chosen accounts and hashtags) for tweets mentioning certain stocks, assigns a sentiment to those tweets (positive or negative), and from there predicts the direction and amplitude of the corresponding stock prices.
+3- Natural Language processing using Tweets to predict stock price movements.
+This project scours Twitter (certain chosen accounts and hashtags) for tweets mentioning certain stocks, assigns a sentiment to those tweets (positive or negative), and from there predicts the direction and amplitude of the corresponding stock price movements.
